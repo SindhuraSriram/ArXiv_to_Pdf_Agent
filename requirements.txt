@@ -1,0 +1,9 @@
+openai
+langchain
+pinecone-client
+python-dotenv
+tiktoken
+unstructured
+pdf2image
+pdfminer
+pdfminer.six
